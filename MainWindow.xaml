@@ -35,7 +35,7 @@
         <Label x:Name="lblQuantity" Content="Quantity" HorizontalAlignment="Left" Margin="115,235,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Margin="176,239,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="81"/>
         <Label x:Name="lblType" Content="Type" HorizontalAlignment="Left" Margin="288,235,0,0" VerticalAlignment="Top"/>
-        <ComboBox x:Name="cmbType" HorizontalAlignment="Left" Margin="323,241,0,0" VerticalAlignment="Top" Width="114" Height="18" SelectionChanged="cmbType_SelectionChanged" RenderTransformOrigin="0.467,0.336"/>
+        <ComboBox x:Name="cmbType" HorizontalAlignment="Left" Margin="323,241,0,0" VerticalAlignment="Top" Width="114" Height="18" SelectionChanged="cmbType_SelectionChanged" RenderTransformOrigin="0.495,0.558"/>
         <Label x:Name="lblPrice" Content="Price" HorizontalAlignment="Left" Margin="463,235,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="505,239,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" IsReadOnly="True"/>
         <ListBox x:Name="lstSale" Margin="115,266,195,71"/>
